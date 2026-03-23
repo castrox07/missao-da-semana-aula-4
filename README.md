@@ -159,3 +159,5 @@ Você pode ver claramente a evolução:
 Prompt vago → código inútil
 Prompt estruturado → solução funcional
 Refinamento → solução robusta, documentada e testável
+<img width="1003" height="557" alt="Captura de tela 2026-03-23 191940" src="https://github.com/user-attachments/assets/cbc88f23-0295-4804-ab15-485b0a618b99" />
+
